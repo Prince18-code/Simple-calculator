@@ -1,2 +1,2 @@
-# Simple-calculator
-This is my first git code 
+<p>This ia my first Repository</p>
+<p>author- Prince Shukla</p>
